@@ -82,6 +82,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/guacamole/proprietary/lib/libmmrtpencoder.so:system/lib/libmmrtpencoder.so \
     vendor/oneplus/guacamole/proprietary/lib/librcc.so:system/lib/librcc.so \
     vendor/oneplus/guacamole/proprietary/lib/vendor.oneplus.fingerprint.extension@1.0.so:system/lib/vendor.oneplus.fingerprint.extension@1.0.so \
+    vendor/oneplus/guacamole/proprietary/lib/vendor.oneplus.hardware.display@1.0.so:system/lib/vendor.oneplus.hardware.display@1.0.so \
     vendor/oneplus/guacamole/proprietary/lib/vendor.qti.hardware.data.latency@1.0.so:system/lib/vendor.qti.hardware.data.latency@1.0.so \
     vendor/oneplus/guacamole/proprietary/lib/vendor.qti.hardware.iop@1.0.so:system/lib/vendor.qti.hardware.iop@1.0.so \
     vendor/oneplus/guacamole/proprietary/lib/vendor.qti.hardware.iop@2.0.so:system/lib/vendor.qti.hardware.iop@2.0.so \
@@ -123,6 +124,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/guacamole/proprietary/lib64/libsdm-disp-apis.so:system/lib64/libsdm-disp-apis.so \
     vendor/oneplus/guacamole/proprietary/lib64/vendor.display.color@1.0.so:system/lib64/vendor.display.color@1.0.so \
     vendor/oneplus/guacamole/proprietary/lib64/vendor.oneplus.fingerprint.extension@1.0.so:system/lib64/vendor.oneplus.fingerprint.extension@1.0.so \
+    vendor/oneplus/guacamole/proprietary/lib64/vendor.oneplus.hardware.display@1.0.so:system/lib64/vendor.oneplus.hardware.display@1.0.so \
     vendor/oneplus/guacamole/proprietary/lib64/vendor.qti.hardware.data.latency@1.0.so:system/lib64/vendor.qti.hardware.data.latency@1.0.so \
     vendor/oneplus/guacamole/proprietary/lib64/vendor.qti.hardware.iop@1.0.so:system/lib64/vendor.qti.hardware.iop@1.0.so \
     vendor/oneplus/guacamole/proprietary/lib64/vendor.qti.hardware.iop@2.0.so:system/lib64/vendor.qti.hardware.iop@2.0.so \
@@ -145,5 +147,4 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
-    vendor.oneplus.fingerprint.extension-V1.0-java \
     dashd
