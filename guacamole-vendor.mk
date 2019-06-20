@@ -100,6 +100,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/guacamole/proprietary/lib64/com.qualcomm.qti.imscmservice@2.1.so:system/lib64/com.qualcomm.qti.imscmservice@2.1.so \
     vendor/oneplus/guacamole/proprietary/lib64/com.qualcomm.qti.uceservice@2.0.so:system/lib64/com.qualcomm.qti.uceservice@2.0.so \
     vendor/oneplus/guacamole/proprietary/lib64/com.quicinc.cne.server@1.0.so:system/lib64/com.quicinc.cne.server@1.0.so \
+    vendor/oneplus/guacamole/proprietary/lib64/ese_spi_nxp.so:system/lib64/ese_spi_nxp.so \
     vendor/oneplus/guacamole/proprietary/lib64/lib-imsvideocodec.so:system/lib64/lib-imsvideocodec.so \
     vendor/oneplus/guacamole/proprietary/lib64/lib-imsvt.so:system/lib64/lib-imsvt.so \
     vendor/oneplus/guacamole/proprietary/lib64/lib-imsvtextutils.so:system/lib64/lib-imsvtextutils.so \
