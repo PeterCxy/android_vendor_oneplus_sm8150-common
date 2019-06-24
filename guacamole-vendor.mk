@@ -81,6 +81,26 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/guacamole/proprietary/lib/libmmrtpdecoder.so:system/lib/libmmrtpdecoder.so \
     vendor/oneplus/guacamole/proprietary/lib/libmmrtpencoder.so:system/lib/libmmrtpencoder.so \
     vendor/oneplus/guacamole/proprietary/lib/librcc.so:system/lib/librcc.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libasphere.so:system/lib/soundfx/libasphere.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libaudiopreprocessing.so:system/lib/soundfx/libaudiopreprocessing.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libbundlewrapper.so:system/lib/soundfx/libbundlewrapper.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libdirac_gef.so:system/lib/soundfx/libdirac_gef.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libdownmix.so:system/lib/soundfx/libdownmix.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libdynproc.so:system/lib/soundfx/libdynproc.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libeffectproxy.so:system/lib/soundfx/libeffectproxy.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libhaptic_effect.so:system/lib/soundfx/libhaptic_effect.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libldnhncr.so:system/lib/soundfx/libldnhncr.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libqcbassboost.so:system/lib/soundfx/libqcbassboost.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libqcompostprocbundle.so:system/lib/soundfx/libqcompostprocbundle.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libqcomvisualizer.so:system/lib/soundfx/libqcomvisualizer.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libqcomvoiceprocessing.so:system/lib/soundfx/libqcomvoiceprocessing.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libqcreverb.so:system/lib/soundfx/libqcreverb.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libqcvirt.so:system/lib/soundfx/libqcvirt.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libreverbwrapper.so:system/lib/soundfx/libreverbwrapper.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libshoebox.so:system/lib/soundfx/libshoebox.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libswdap.so:system/lib/soundfx/libswdap.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libvisualizer.so:system/lib/soundfx/libvisualizer.so \
+    vendor/oneplus/guacamole/proprietary/lib/soundfx/libvolumelistener.so:system/lib/soundfx/libvolumelistener.so \
     vendor/oneplus/guacamole/proprietary/lib/vendor.oneplus.fingerprint.extension@1.0.so:system/lib/vendor.oneplus.fingerprint.extension@1.0.so \
     vendor/oneplus/guacamole/proprietary/lib/vendor.oneplus.hardware.display@1.0.so:system/lib/vendor.oneplus.hardware.display@1.0.so \
     vendor/oneplus/guacamole/proprietary/lib/vendor.qti.hardware.data.latency@1.0.so:system/lib/vendor.qti.hardware.data.latency@1.0.so \
