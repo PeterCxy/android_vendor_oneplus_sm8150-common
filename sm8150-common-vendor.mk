@@ -509,8 +509,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/qti_fp/wakeup/templates/template_imaginary.bin:$(TARGET_COPY_OUT_VENDOR)/etc/qti_fp/wakeup/templates/template_imaginary.bin \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/qti_fp/wakeup/templates/template_real.bin:$(TARGET_COPY_OUT_VENDOR)/etc/qti_fp/wakeup/templates/template_real.bin \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/sdr_config.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/sdr_config.cfg \
-    vendor/oneplus/sm8150-common/proprietary/vendor/etc/seccomp_policy/mediacodec.policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/mediacodec.policy \
-    vendor/oneplus/sm8150-common/proprietary/vendor/etc/seccomp_policy/mediaextractor.policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/mediaextractor.policy \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/selinux/sepolicy_debug:$(TARGET_COPY_OUT_VENDOR)/etc/selinux/sepolicy_debug \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/sensors/config/ak991x_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/ak991x_0.json \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/sensors/config/bmi26x_0.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/bmi26x_0.json \
