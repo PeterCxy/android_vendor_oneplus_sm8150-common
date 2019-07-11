@@ -1593,6 +1593,8 @@ PRODUCT_PACKAGES += \
     SoterService \
     uceShimService \
     CNEService \
+    HotwordEnrollmentOKGoogleWCD9340 \
+    HotwordEnrollmentXGoogleWCD9340 \
     WfdService \
     dpmserviceapp \
     ims \
